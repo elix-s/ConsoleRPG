@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\net9.0\ConsoleRPG.exe
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\net9.0\ConsoleRPG.deps.json
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\net9.0\ConsoleRPG.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\net9.0\ConsoleRPG.dll
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\net9.0\ConsoleRPG.pdb
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\ConsoleRPG.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\ConsoleRPG.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\ConsoleRPG.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\ConsoleRPG.dll
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\refint\ConsoleRPG.dll
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\ConsoleRPG.pdb
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\ConsoleRPG.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\net9.0\ref\ConsoleRPG.dll
